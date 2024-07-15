@@ -1,4 +1,4 @@
-# e-Email Scheduler com Anexo
+# Envio automatico de e-mail com um anexo
 Este projeto é um script Python que automatiza o envio de emails com um anexo específico em uma data e hora predefinidas. Utiliza as bibliotecas yagmail para envio de emails e schedule para agendamento de tarefas. O objetivo deste script é enviar um email com uma planilha em anexo toda segunda-feira às 16:00.
 
 Configurações
